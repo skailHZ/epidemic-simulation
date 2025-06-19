@@ -1,0 +1,17 @@
+# PyCharm / JetBrains IDE
+.idea/
+*.iml
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Виртуальное окружение
+venv/
+.env
+.env.bak
+*.env.*
